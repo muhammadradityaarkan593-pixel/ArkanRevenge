@@ -1,1 +1,19 @@
-{}
+{
+  "OHEW-D38J-CCTV-9DCL": {
+    "key": "OHEW-D38J-CCTV-9DCL",
+    "owner": 7926135540,
+    "ownerName": "KanzzzOfficial",
+    "createdAt": "2026-02-23T07:33:51.152Z",
+    "used": 0,
+    "limit": null,
+    "isSeller": false,
+    "expiresAt": "2026-03-25T07:33:51.152Z",
+    "isActive": true,
+    "generatedIn": {
+      "group": "FULL UP ARKAN REVENGE",
+      "groupId": -1003894647641,
+      "date": "2026-02-23T07:33:51.152Z"
+    },
+    "usageHistory": []
+  }
+}
