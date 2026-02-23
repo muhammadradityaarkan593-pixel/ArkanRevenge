@@ -16,5 +16,22 @@
     },
     "usageHistory": [],
     "upgradedAt": "2026-02-23T07:41:04.210Z"
+  },
+  "CVNL-SAWR-JLVZ-JNCH": {
+    "key": "CVNL-SAWR-JLVZ-JNCH",
+    "owner": 2119108904,
+    "ownerName": "KanzzzOfficial2",
+    "createdAt": "2026-02-23T13:00:57.235Z",
+    "used": 0,
+    "limit": null,
+    "isSeller": false,
+    "expiresAt": "2026-03-25T13:00:57.235Z",
+    "isActive": true,
+    "generatedIn": {
+      "group": "FULL UP ARKAN REVENGE",
+      "groupId": -1003894647641,
+      "date": "2026-02-23T13:00:57.235Z"
+    },
+    "usageHistory": []
   }
 }
