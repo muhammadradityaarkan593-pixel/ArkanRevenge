@@ -69,5 +69,24 @@
     },
     "usageHistory": [],
     "upgradedAt": "2026-02-26T14:01:15.149Z"
+  },
+  "Q52Y-PZK6-GFZ7-I1NB": {
+    "key": "Q52Y-PZK6-GFZ7-I1NB",
+    "owner": 7926135540,
+    "ownerName": "KanzzzOfficial",
+    "createdAt": "2026-02-26T14:11:56.295Z",
+    "used": 0,
+    "limit": null,
+    "isSeller": false,
+    "sellerCanGenerate": false,
+    "expiresAt": "2026-03-28T14:11:56.295Z",
+    "isActive": true,
+    "generatedIn": {
+      "group": "ARKAN REVENGE",
+      "groupId": -1003894647641,
+      "date": "2026-02-26T14:11:56.295Z"
+    },
+    "usageHistory": [],
+    "upgradedAt": "2026-02-26T14:11:56.295Z"
   }
 }
