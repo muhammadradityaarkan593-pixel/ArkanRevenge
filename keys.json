@@ -33,5 +33,23 @@
       "date": "2026-02-23T13:00:57.235Z"
     },
     "usageHistory": []
+  },
+  "H44K-FTU2-VGNG-KEDK": {
+    "key": "H44K-FTU2-VGNG-KEDK",
+    "owner": 7926135540,
+    "ownerName": "KanzzzOfficial",
+    "createdAt": "2026-02-26T13:55:11.074Z",
+    "used": 0,
+    "limit": 100,
+    "isSeller": false,
+    "expiresAt": "2026-03-28T13:55:11.074Z",
+    "isActive": true,
+    "generatedIn": {
+      "group": "FULL UP ARKAN REVENGE",
+      "groupId": -1003894647641,
+      "date": "2026-02-26T13:55:11.074Z"
+    },
+    "usageHistory": [],
+    "upgradedAt": "2026-02-26T13:55:11.074Z"
   }
 }
